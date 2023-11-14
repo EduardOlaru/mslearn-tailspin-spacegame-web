@@ -36,6 +36,8 @@
     "features": {
         "terraform": "latest",
         "azure-cli": "latest",
+        "ghcr.io/devcontainers/features/common-utils:2": {
+      "version": "latest"},
         "git-lfs": "latest",
         "github-cli": "latest",
         "powershell": "latest"
